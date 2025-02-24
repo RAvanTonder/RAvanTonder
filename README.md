@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... What's my favourite colour is.
 - 📫 How to reach me: ... @RAvanTonder at twitter.
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact about me: ... A guy that has a heart for learning how the universe of computers works. And it just works.
+- ⚡ Fun fact about me: A guy that has a passion for learning how the universe of computers works. And it just works. Yah for some reason I'm amazed to.
