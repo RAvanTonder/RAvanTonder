@@ -65,4 +65,4 @@ My goal is to understand how systems are attacked, how to defend them, and to bu
 
 ---
 
-### *“Learn daily. Break things safely. Fix them properly.”*
+### *“The only reason I love mistakes is because they are the only reason for my success in life. Mistakes showed me how to overcome past errors and solve them using the knowledge I lacked back then, which ultimately caused me to succeed.” - Righardt Anthony van Tonder*
