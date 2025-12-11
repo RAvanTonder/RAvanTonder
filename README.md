@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAvanTonder/RAvanTonder/main/banner.png" alt="Cybersecurity Banner" />
+  <img src="https://raw.githubusercontent.com/RAvanTonder/RAvanTonder/refs/heads/main/Cyber-security-banner.jpg" alt="Cybersecurity Banner" />
 </p>
 
 # 👋 Hi, I'm Righardt  
