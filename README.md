@@ -59,4 +59,10 @@ My goal is to understand how systems are attacked, how to defend them, and to bu
 
 ---
 
+## 🎼 Music
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316z65jgxciun43mv5bzdzaha76a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316z65jgxciun43mv5bzdzaha76a&redirect=true)
+
+---
+
 ### *“Learn daily. Break things safely. Fix them properly.”*
