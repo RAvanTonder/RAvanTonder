@@ -43,9 +43,10 @@ My goal is to understand how systems are attacked, how to defend them, and to bu
 
 ## 🐍 Snake Animation
 
-<p align="center">
-  ![snake_gif](https://github.com/RAvanTonder/RAvanTonder/blob/output/github-snake.svg)
-</p>
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
