@@ -53,7 +53,7 @@ My goal is to understand how systems are attacked, how to defend them, and to bu
 ## 🌐 Socials
 - **GitHub:** https://github.com/RAvanTonder  
 - **X (Twitter):** https://x.com/RAvanTonder  
-- **LinkedIn:** https://www.linkedin.com/in/righardtanthonyvantonder  
+- **LinkedIn:** https://www.linkedin.com/in/ravantonder  
 - **Discord:** @paperclipat  
 - **Email:** ravantonder87@gmail.com  
 
